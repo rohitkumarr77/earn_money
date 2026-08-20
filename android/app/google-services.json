@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628510565867",
+    "project_id": "earn-money-98496",
+    "storage_bucket": "earn-money-98496.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628510565867:android:b7a17ac19ac5f348d9a5ae",
+        "android_client_info": {
+          "package_name": "com.example.earn_money"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628510565867-j4670e60duiu1qdaol7qf3fjprfehlsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.earn_money",
+            "certificate_hash": "4b99854991e31b81129ef97a8a57f65db3220d67"
+          }
+        },
+        {
+          "client_id": "628510565867-u0vh04on57hph0k6m6rfmbkh66l74ai8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKLY5TGlfeNkbTYHdHtW-ORiNeF_zbwIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628510565867-cpb433ldnu8k7dk1e1mpb1knal4pust0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
